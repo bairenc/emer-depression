@@ -110,10 +110,11 @@ This is a neural network model of depression with [...]layers
 
 You will need Golang and Prerequisites of Emergent Network to run this model
 
-* npm
+* Golang
   ```sh
-  npm install npm@latest -g
+    #install golang
   ```
+* Emergent
 
 ### Installation
 
