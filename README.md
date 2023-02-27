@@ -24,7 +24,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -84,9 +84,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Network Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This is a neural network model of depression with [...]layers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,12 +104,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+You will need Golang and Prerequisites of Emergent Network to run this model
+
 * npm
   ```sh
   npm install npm@latest -g
@@ -138,7 +138,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Useful examples of usage. Additional screenshots, code examples and demos. Link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -149,10 +149,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Exmaples in '/Example' 
+- [ ] ParamSet in '/Depress/params.go'
+- [ ] Configuration of the network - Config() in '/Depress/Depress.go'
+- [ ] Traning/Testing of the Network
 
 See the [open issues](https://github.com/bairenc/emer-depression/issues) for a full list of proposed features (and known issues).
 
@@ -161,6 +161,7 @@ See the [open issues](https://github.com/bairenc/emer-depression/issues) for a f
 
 
 <!-- CONTRIBUTING -->
+<!--
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -175,7 +176,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 
 
 <!-- LICENSE -->
@@ -203,7 +204,7 @@ Project Link: [https://github.com/bairenc/emer-depression](https://github.com/ba
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* [Readme Template](https://github.com/othneildrew/Best-README-Template)
 * []()
 * []()
 
