@@ -216,7 +216,7 @@ Project Link: [https://github.com/bairenc/emer-depression](https://github.com/ba
 [issues-shield]: https://img.shields.io/github/issues/bairenc/emer-depression.svg?style=for-the-badge
 [issues-url]: https://github.com/bairenc/emer-depression/issues
 [license-shield]: https://img.shields.io/github/license/bairenc/emer-depression.svg?style=for-the-badge
-[license-url]: https://github.com/bairenc/emer-depression/blob/master/LICENSE.txt
+[license-url]: https://github.com/bairenc/emer-depression/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
