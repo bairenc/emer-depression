@@ -122,7 +122,11 @@ You will need Golang and Prerequisites of Emergent Network to run this model
    ```sh
    git clone https://github.com/bairenc/emer-depression.git
    ```
-
+2. Set up Go Mods
+   ```
+   go mod tidy
+   ```
+3.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,7 +188,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Bairen(Andy Chen) - chenandy@usc.edu
+Bairen(Andy) Chen - chenandy@usc.edu
 
 Advisor: Steve Read - read@usc.edu
 
@@ -238,17 +242,6 @@ Project Link: [https://github.com/bairenc/emer-depression](https://github.com/ba
 [JQuery-url]: https://jquery.com 
 [emergent-shield]: https://img.shields.io/badge/Network-Emergent-blue
 [emer-url]: https://github.com/emer/emergent
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+
+
